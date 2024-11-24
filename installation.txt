@@ -1,0 +1,4 @@
+npx create-react-app electricity-bill-calculator
+cd electricity-bill-calculator
+npm install bootstrap
+npm start
